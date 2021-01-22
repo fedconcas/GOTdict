@@ -1,5 +1,5 @@
 # GOTdict
-A dictionary in StarDict format for George R. R. Martin's A Song of Ice and Fire / Game of Thrones.
+A dictionary in StarDict format for George R. R. Martin's A Song of Ice and Fire / Game of Thrones.  
 It is based on the work of KEC Krew and inspired by https://github.com/wjdp/gotdict.
 
 # Why did I create this dictionary?
