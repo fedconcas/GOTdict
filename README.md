@@ -1,3 +1,5 @@
+<head><meta name="google-site-verification" content="EBphOIjGtd708o1H8AJBlin4LS_qomBAI2CGiwTrSLM" /></head>
+
 # GOTdict
 A dictionary in StarDict format for George R. R. Martin's A Song of Ice and Fire / Game of Thrones.  
 It is based on the work of KEC Krew and inspired by [https://github.com/wjdp/gotdict](https://github.com/wjdp/gotdict).
@@ -9,5 +11,3 @@ There are, however, people like me who use ePaper tablets with larger screens li
 
 # Licence
 This project draws upon openly licensed content - mainly from awoiaf.westeros.org - and uses their licence CC BY-SA.
-
-<meta name="google-site-verification" content="EBphOIjGtd708o1H8AJBlin4LS_qomBAI2CGiwTrSLM" />
