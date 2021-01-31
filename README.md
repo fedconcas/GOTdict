@@ -1,4 +1,4 @@
-<head><meta name="google-site-verification" content="EBphOIjGtd708o1H8AJBlin4LS_qomBAI2CGiwTrSLM" /></head>
+<html><head><meta name="google-site-verification" content="EBphOIjGtd708o1H8AJBlin4LS_qomBAI2CGiwTrSLM" /></head></html>
 
 # GOTdict
 A dictionary in StarDict format for George R. R. Martin's A Song of Ice and Fire / Game of Thrones.  
