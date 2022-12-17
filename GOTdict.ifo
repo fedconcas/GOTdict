@@ -1,6 +1,9 @@
 StarDict's dict ifo file
 version=2.4.2
-wordcount=3920
-idxfilesize=74399
-bookname=Game of Thrones Dictionary
+wordcount=2918
+synwordcount=1002
+idxfilesize=52651
+bookname=A Dictionary of Ice and Fire
 sametypesequence=h
+date=2022-11-11
+website=https://github.com/FedericoConcas/GOTdict
